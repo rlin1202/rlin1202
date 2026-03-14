@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ryan
-I am a Junior at UB, Sometimes I make good code, sometimes I make my professors cry
+## I am a Junior at UB, Sometimes I make good code, sometimes I make my professors cry
 
 <!--
 **rlin1202/rlin1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
