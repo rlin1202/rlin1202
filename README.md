@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Ryan
+I am a Junior at UB, Sometimes I make good code, sometimes I make my professors cry
 
 <!--
 **rlin1202/rlin1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-I am a Junior at UB, Sometimes I make good code, sometimes I make my professors cry <br/>
+--> 
 I was a front-end developer at Scholarty over the summer, where I worked with other engineers to create a landing page for their beta testing period <br/>
 I am currently working on a web server for one of my classes and learning the ins and outs of back-end development to create better applications. <br/>
 
