@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Junior at UB, Sometimes I make good code, sometimes I make my professors cry <br/>
+I am currently working on a web server for one of my classes and learning the ins and outs of back-end development to create better applications. <br/>
+
+connect with me on <a href="https://www.linkedin.com/in/ryan-lin-85506827a/">Linkedin<a/> or <a href="mailto:rlin16888888@gmail.com">Gmail<a/>
