@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-I was a front-end developer at Scholarty over the summer, where I worked with other engineers to create a landing page for their beta testing period <br/>
-I am currently working on a web server for one of my classes and learning the ins and outs of back-end development to create better applications. <br/>
+I was a front-end developer at Scholarty over the summer, where I worked with other engineers to create a landing page for their beta testing period 
 
 <br>Currently I am working on:<br>
 Discord Server Moderation Bot, which consists of automod, importing emotes from other servers, and a music feature
